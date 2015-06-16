@@ -1,4 +1,4 @@
-UniRX RPG Samle
+UniRX RPG Sample
 ===
 
 First, create Subject and Observable. Note the Observable is subscribed when a Character is no longer alive.
